@@ -21,7 +21,30 @@
 .clear {
   clear: both;
 }
-
+.col2_right {
+  float: left;
+  width: 32%;
+  margin-bottom: 25px;
+  margin-left: 2%;
+}
+.col2_left {
+  float: left;
+  width: 66%;
+  margin-bottom: 20px;
+}
+.col1_left {
+  float: left;
+  width: 32%;
+  margin-right: 0px;
+}
+.col1_mid {
+  float: left;
+  width: 32%;
+  margin-left: 2%;
+}
+.col1_right {
+  float: left;
+  width: 32%;
+  margin-left: 2%;
+}
 /* Positioning Classes */
-
-
