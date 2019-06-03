@@ -24,4 +24,40 @@
 
 /* Positioning Classes */
 
+.border_right{
+  
+  margin-right:2%;
+  float: left;
+  width: 32%;
+}
+.follow {
+  float: left;
+  width: 32%;
+}
+
+.sıra{
+  margin-top: 15px;
+  margin-right:2%;
+  float: left;
+  width: 32%;
+}
+.sıra3{
+  margin-top: 15px;
+  float: left;
+  width: 32%;
+  
+}
+
+.archive{
+  float: left;
+  width: 32%;
+
+}
+.grass{
+  margin-right:2%;
+  float: left;
+  width: 66%;
+
+}
+
 
