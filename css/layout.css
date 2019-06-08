@@ -24,4 +24,10 @@
 
 /* Positioning Classes */
 
+.colum3{
+  column-count: 3;
+}
 
+.colum2{
+  column-count: 2;
+}
