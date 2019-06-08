@@ -23,5 +23,24 @@
 }
 
 /* Positioning Classes */
-
-
+ .col-2 {    
+   width: 66%;    
+   float:left;    
+   margin-left: 1%;
+   margin-bottom: 1%;
+   
+ }  
+ .col-1{    
+   width: 32.5%;    
+   float:left;    
+   margin-left: 1%; 
+   margin-bottom: 1%;
+   
+ }  
+ .first {    
+   margin-left:0;
+ }  
+  
+.another-class{
+  margin-bottom:0;
+}
