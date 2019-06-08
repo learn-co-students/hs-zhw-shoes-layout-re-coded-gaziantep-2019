@@ -24,4 +24,22 @@
 
 /* Positioning Classes */
 
+.colum3{
+  column-count: 3;
+  clear: both;
+}
 
+.col2-1{
+  width: 66.25%;
+  display: inline-block;
+  float: left;
+  margin-bottom: 2%;
+
+}
+.col2-2{
+  width: 32.25%;
+  display: inline-block;
+  float: right;
+  margin-left: 1.5%;
+  margin-bottom: 2%;
+}
