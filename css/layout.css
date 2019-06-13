@@ -24,4 +24,18 @@
 
 /* Positioning Classes */
 
-
+.column-3{
+  column-count: 3;
+}
+.inblock-1{
+  display: inline-block;
+  width: 66.10%;
+  float: left;
+  margin-bottom: 2%;
+}
+.inblock-2{
+  display: inline-block;
+  width: 32.25%; 
+  float: right;
+  margin-bottom: 2%;
+}
